@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noobcommander07
 - 👀 I’m interested in ... Coding XD
-- 🌱 I’m currently learning ... Java in IntelliJ idea for the BWINF 2022 
-- 💞️ I’m looking to collaborate on ... the BWINF2022
+- 🌱 I’m currently learning ... Java in IntelliJ 
+- 💞️ I’m looking to collaborate on ... Nothing, unfortunately it's forbidden at my university 
 - 📫 How to reach me ...
 
 <!---
